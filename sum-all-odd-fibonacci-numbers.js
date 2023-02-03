@@ -2,7 +2,7 @@ module.exports = function (num) {
   let fibonachi = [1, 1];
   let count = 0;
   let nextFibo;
-  let result = 0;
+  let result = 2;
 
   if (num === 1) {
     return 1;
